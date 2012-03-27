@@ -1,0 +1,8 @@
+name: FreezeTime
+main: com.github.awolk.FreezeTime.FreezeTime
+version: 0.2
+commands:
+  freezetime:
+    description: Freeze the time in a specific world.
+    permission: FreezeTime.freezetime
+    usage: /freezetime [world]

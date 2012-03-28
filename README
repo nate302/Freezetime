@@ -1,0 +1,13 @@
+FreezeTime allows you to freeze the time on certain worlds. Every 5 seconds, worlds with FreezeTime
+enabled go back 5 seconds, so it keeps it within 5 seconds of the time while not causing any lag. 
+It works with /time and multiverse plugins.
+
+This plugin was written by and is maintained by aidanwolk. This repo was made as an easy way to update
+the source for compiling with Jenkins.
+
+You can find the current source code at:
+
+http://dev.bukkit.org/server-mods/freezetime/pages/source/
+
+And the latest jar file at:
+http://tinyurl.com/7v3d5ye
